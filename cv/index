@@ -1,0 +1,15 @@
+---
+layout: default
+title: AJ Clarke CV
+---
+
+	<div class="cv">
+		<a href="#" class="download" title="Download CV as PDF">Download CV</a>			
+					<h1>AJ Clarke</h1>
+					<address>
+					Street Address<br>
+					City State 12345<br>
+					<abbr title="phone">P:</abbr> (123) 456-7890<br>
+					<span class="obfuscate">3kralcja@email.com</span>
+					</address>
+	</div>
